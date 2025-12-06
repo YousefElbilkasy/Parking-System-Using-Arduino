@@ -9,12 +9,12 @@ Servo myservo;
 
 // --- Pin Definitions ---
 #define IR_ENTER 2   // Entrance sensor
-#define IR_BACK 3    // Exit/Back sensor
-#define SERVO_PIN 4  // Servo motor pin
+#define IR_BACK 4    // Exit/Back sensor
+#define SERVO_PIN 3  // Servo motor pin
 
-#define IR_CAR1 5  // Slot 1 sensor
-#define IR_CAR2 6  // Slot 2 sensor
-#define IR_CAR3 7  // Slot 3 sensor
+#define IR_CAR1 12  // Slot 1 sensor
+#define IR_CAR2 5  // Slot 2 sensor
+#define IR_CAR3 13  // Slot 3 sensor
 
 // --- Variables ---
 int S1 = 0, S2 = 0, S3 = 0;

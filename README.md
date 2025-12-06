@@ -48,6 +48,12 @@ Arduino
 └── SCL    → LCD I2C (SCL)
 ```
 
+## Wiring Diagram (Photo)
+
+![Wiring diagram](./Car%20Parking%20System%20Wires.png)
+
+If the image does not render, ensure the photo file is saved at `docs/wiring-diagram.png` in this repository.
+
 ## Required Libraries
 
 Install the following libraries via Arduino IDE Library Manager:
